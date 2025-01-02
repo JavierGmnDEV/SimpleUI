@@ -1,8 +1,14 @@
+import { Title } from "./Title/Title"
 
 
 
 function App() {
- return (<h1 className="text-6xl font-bold underline">tutorial</h1>)
+ return (
+ <div className="flex items-center justify-center min-h-screen w-1/2 mx-auto gap-4" >
+
+ <Title> Hello World </Title>
+ </div>
+ )
 }
 
 export default App
