@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 <Title>
 Random Text
-<Title>
+</Title>
 
 ## Expanding the ESLint configuration
 

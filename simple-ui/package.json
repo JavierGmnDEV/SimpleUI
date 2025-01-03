@@ -1,7 +1,7 @@
 {
-  "name": "javiergmn-simple",
+  "name": "simple-uifordev",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.21",
   "type": "module",
   "files": ["dist"],
   "main": "./dist/Simple-ui.umd.cjs",
